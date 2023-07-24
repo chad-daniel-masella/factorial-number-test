@@ -1,0 +1,7 @@
+/Users/chadmasella/Desktop/chad-daniel-masella/factorial-number-test/src/main/java/org/resources/methods/pageObjectMethods/pageMethods.java
+/Users/chadmasella/Desktop/chad-daniel-masella/factorial-number-test/src/main/java/org/resources/methods/testSetup/initializeBrowser.java
+/Users/chadmasella/Desktop/chad-daniel-masella/factorial-number-test/src/main/java/tests/TestFactorialOfSeven.java
+/Users/chadmasella/Desktop/chad-daniel-masella/factorial-number-test/src/main/java/tests/TestInvalidInputRedFormValidationAndGetConsoleLogs.java
+/Users/chadmasella/Desktop/chad-daniel-masella/factorial-number-test/src/main/java/tests/TestInvalidInputRedFormValidation.java
+/Users/chadmasella/Desktop/chad-daniel-masella/factorial-number-test/src/main/java/org/resources/methods/testTearDown/terminateAllBrowserInstances.java
+/Users/chadmasella/Desktop/chad-daniel-masella/factorial-number-test/src/main/java/tests/api/TestGetFactorialPositive.java
